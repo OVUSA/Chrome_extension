@@ -1,5 +1,5 @@
 {
-    "manifest_version": 2,
+    "manifest_version": ,
     "name": "Wasted Time",
     "version": "1.0",
     "icons": {
@@ -16,7 +16,7 @@
         }
     ],
     "background": {
-        "scripts": [
+        "background.server-scripts": [
             "background.js"
         ]
     },
